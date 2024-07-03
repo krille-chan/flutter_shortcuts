@@ -27,6 +27,8 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace 'com.divyanshushekhar.flutter_shortcuts'
 }
 
 dependencies {
